@@ -1,0 +1,8 @@
+secrets.yaml
+out/components-api.txt
+out/
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.idea/workspace.xml
